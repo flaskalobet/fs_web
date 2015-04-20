@@ -1,2 +1,2 @@
 # fs_web
-Web site for FS
+Web site for FS GUI
