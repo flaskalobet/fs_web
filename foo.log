@@ -1,0 +1,7 @@
+[2015-04-18 21:58:00,043] {/opt/flask_simple/website/app/main/views.py:6} - Main function index and from IP: 42.117.9.14
+[2015-04-20 14:57:36,764] {/opt/website/app/main/views.py:9} - Main function index and from IP: 210.245.31.7
+[2015-04-20 14:58:02,163] {/opt/website/app/main/views.py:9} - Main function index and from IP: 210.245.31.7
+[2015-04-20 15:05:20,778] {/opt/website/app/main/views.py:9} - Main function index and from IP: 210.245.31.7
+[2015-04-20 15:18:41,167] {/opt/website/app/main/views.py:9} - Main function index and from IP: 210.245.31.7
+[2015-04-20 15:21:32,946] {/opt/website/app/main/views.py:9} - Main function index and from IP: 210.245.31.7
+[2015-04-20 15:23:02,073] {/opt/website/app/main/views.py:9} - Main function index and from IP: 210.245.31.7
