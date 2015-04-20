@@ -15,4 +15,3 @@ def edit():
 def delete():
     current_app.logger.info('function fsdelete and from IP: %s', request.remote_addr)
     return '<h1>DELETE</h1>'
-
